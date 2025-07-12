@@ -1,1 +1,1 @@
-Calcy, I hate JS
+Simple ass calcy
